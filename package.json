@@ -1,0 +1,18 @@
+{
+  "name": "ghfm",
+  "version": "2.0.0",
+  "description": "A v11 Discord.JS music bot based on OhGodMusicBot.",
+  "main": "server.js",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "discord.js-musicbot-addon": "github:greenham/discord.js-musicbot-addon#master",
+    "node-opus": "^0.2.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
